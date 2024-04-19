@@ -1,0 +1,12 @@
+.buttery-level {
+  font-size: 60px;
+  font-family: monospace;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.buttery-status,
+h3 {
+  font-size: 40px;
+  font-family: monospace;
+}
